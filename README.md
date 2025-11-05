@@ -1,7 +1,7 @@
 # Video Demonstration
 Will be posted soon (posting this note on Nov 5th)
 # Overview
-In this portfolio piece, I'll be demonstrating an API interaction utilizing OAuth 2.0 within Postman. This will be using a Dropbox API which can be set up quickly.
+In this portfolio piece, I'll be demonstrating an API interaction utilizing OAuth 2.0 within Postman. This is a brief off-shoot of my larger [Postman API Testing](https://github.com/mhoepf84/Postman-API-Testing-Demo) piece.
 
 # Installation & Setup
 This is demonstrated in the video linked above. Since there is some setup on the user end, I'm going to detail the setup here, step-by-step. I'll elaborate further on these steps/actions within the video demonstration.
