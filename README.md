@@ -37,4 +37,8 @@ https://oauth.pstmn.io/v1/callback
 
 9. The OAuth Dropbox POST request can now run. When run, it will access the Apps directory in your Dropbox, then a subdirectory within that, named after your API created in Step 2. If you deposite a file within that path, it will appear in the POST request. In my case, I placed an image inside in here.
 
-10. Send the POST request. The default Body is configured as recommended within the API documentation.
+![My Dropbox Example Structure](https://github.com/user-attachments/assets/37c81b17-303b-4ab6-bd65-14dfcfa9d5b0)
+
+11. Send the POST request. The default Body is configured as recommended within the API documentation.
+
+![POST Response](https://github.com/user-attachments/assets/b8493f57-97db-4118-ba07-57b0a89c9f7d)
